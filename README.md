@@ -49,3 +49,5 @@ This command creates an empty Git repository. From now on, we can make changes t
 1. `git branch "new branch name"` to create a new branch
 2. `git checkout "branch name"` to switch to another branch (in VSCode it happens automatically).
 3. `git add . ` -> `git commit -m "reminder message"` to commit and then `git push`.
+
+## 6. this is the test file 
